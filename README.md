@@ -24,22 +24,19 @@
 </p>
 
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
-<!-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
- HTML/CSS/JavaScript/React.js
- 
- Node.js/Express/MongoDB/
- 
- Redux/Firebase/Sass
- 
- Figma/Photoshop
- 
- C++
-</p> -->
+ HTML/CSS/JavaScript/React.js/C++/Figma/Photoshop
+ </p>
+ <h4 align="left">I'm familiar with:</h4>
+ <p>
+ Node.js/Express/MongoDB/Redux/Firebase/Sass
+</p>
+
 # 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="nartynka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nartynka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nartynka" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nartynka" /></p>
 
