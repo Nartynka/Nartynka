@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/martyna plutowska" target="blank"><img align="center" src="https://user-images.githubusercontent.com/57597187/147829342-9c0e68c6-756b-4f86-a3ff-09d85f057872.png" alt="martyna plutowska" height="30" width="30" /></a>&nbsp;
-<a href="https://discord.gg/Nartyna#0362" target="blank"><img align="center" src="https://user-images.githubusercontent.com/57597187/147829337-f872ce95-f68f-4a32-8fd2-99507b631de1.png" alt="Nartyna#0362" height="30" width="30" /></a>
+ <a href="https://www.linkedin.com/in/martyna-plutowska/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white" alt="martyna plutowska"/></a>
+<a href="https://discordapp.com/users/411156513646706690" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="Nartyna#0362"/></a>
 </p>
 
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
