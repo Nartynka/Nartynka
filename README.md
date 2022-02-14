@@ -36,7 +36,7 @@ _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 <details>
 <summary>⬇️ Github stats ⬇️</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nartynka github stats" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nartynka&show_icons=true&langs_count=6&theme=dracula&hide_border=true&layout=compact" alt="nartynka" alt="nartynka top languages"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nartynka&show_icons=true&langs_count=8&theme=dracula&hide_border=true&layout=compact" alt="nartynka" alt="nartynka top languages"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nartynka strike stats" />
 </details>
 
