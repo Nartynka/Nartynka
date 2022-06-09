@@ -26,11 +26,15 @@
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- HTML/CSS/JavaScript/React.js/C++/Figma/Photoshop
+ HTML/CSS/JavaScript/React.js/PHP/C++/Figma/Photoshop
  </p>
  <h4 align="left">I'm familiar with:</h4>
  <p>
  Node.js/Express/MongoDB/Redux/Firebase/Sass
+</p>
+ <h4 align="left">OS i know:</h4>
+ <p>
+ Windows Server 2016/Ubuntu Server/Ubuntu/Windows Home
 </p>
 
 <details>
