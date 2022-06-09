@@ -30,7 +30,7 @@ _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
  </p>
  <h4 align="left">I'm familiar with:</h4>
  <p>
- Node.js/Express/MongoDB/Redux/Firebase/Sass
+ Node.js/Express/MongoDB/PostgreSQL/Redux/Firebase/Sass
 </p>
  <h4 align="left">OS i know:</h4>
  <p>
