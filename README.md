@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **on the best version of myself and getting hired after school. _(Or getting intership)_**
 
-- 🌱 I’m currently learning **Godot Engine and Digital Art**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📚 I want to learn **Unreal Engine**
 
