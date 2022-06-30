@@ -26,11 +26,11 @@
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- HTML/CSS/JavaScript/React.js/PHP/C++/Figma/Photoshop
+ MERN Stack (MongoDB, Express, React.js, Node.js)/Sass/C++/API/REST/SPA/PWA
  </p>
  <h4 align="left">I'm familiar with:</h4>
  <p>
- Node.js/Express/MongoDB/PostgreSQL/Redux/Firebase/Sass
+ PostgreSQL/PHP/Redux/Firebase/Figma/Photoshop/Godot Engine
 </p>
  <h4 align="left">OS i know:</h4>
  <p>
