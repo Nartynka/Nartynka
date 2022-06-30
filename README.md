@@ -26,7 +26,7 @@
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- MERN Stack (MongoDB, Express, React.js, Node.js)/Sass/C++/API/REST/SPA/PWA
+ React.js/MongoDB/Express/Node.js/Sass/C++/API/REST/SPA/PWA
  </p>
  <h4 align="left">I'm familiar with:</h4>
  <p>
