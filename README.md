@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📚 I want to learn **Unreal Engine**
+- 📚 I want to learn **Everything**
 
 - 👨‍💻 All of my projects are available **on this profile**
 
