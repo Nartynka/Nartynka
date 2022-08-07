@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game development and design**
 
-- 📚 I want to learn **Everything**
+- 📚 I want to learn **Everything about game dev :D** 
 
 - 👨‍💻 All of my projects are available **on this profile**
 
@@ -24,21 +24,18 @@
 </p>
 
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- React.js/MongoDB/Express/Node.js/Sass/C++/API/REST/SPA/PWA
- </p>
- <h4 align="left">I'm familiar with:</h4>
- <p>
- PostgreSQL/PHP/Redux/Firebase/Figma/Photoshop/Godot Engine
-</p>
- <h4 align="left">OS i know:</h4>
- <p>
- Windows Server 2016/Ubuntu Server/Ubuntu/Windows Home
-</p>
+
+<h4>Tools I use when developing games</h4>
+<p>Godot Engine && Aseprite</p>
+
+<h4>Languages and Tools I use in web dev:</h3>
+<p>React.js/Redux/Node.js/MongoDB/Firebase/Sass/PHP/Figma</p>
+
+<h4>I also know:</h4>
+<p>Windows Server 2016/Ubuntu Server/C++</p>
 
 <details>
-<summary>⬇️ Github stats ⬇️</summary>
+<summary>⬇️ Github stats ⬇️ <i>(click to expand)</i></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nartynka github stats" />
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nartynka&show_icons=true&langs_count=8&theme=dracula&hide_border=true&layout=compact&hide=C%23" alt="nartynka" alt="nartynka top languages"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nartynka strike stats" />
