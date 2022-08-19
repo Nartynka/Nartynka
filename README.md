@@ -3,9 +3,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
 <p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
 
-- 🔭 I’m currently working **on the best game i can create!**
+- 🔭 I’m currently working on **the best game i can create!**
 
-- 🌱 I’m currently learning **Game development and design**
+- 🌱 I’m currently learning **how to fast create world in 2d games**
 
 - 📚 I want to learn **Everything about game dev :D** 
 
