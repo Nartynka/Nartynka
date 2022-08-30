@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **_LoDu: The Lost Duck_ fantasy RPG game with procedural generated world!**
 
-- 🌱 I’m currently learning **how to fast create world in 2d games**
+- 🌱 I’m currently learning **Godot engine**
 
 - 📚 I want to learn **Everything about game dev :D** 
 
