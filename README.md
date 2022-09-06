@@ -32,7 +32,7 @@ _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 <p>React.js/Redux/Node.js/MongoDB/Firebase/Sass/PHP/Figma</p>
 
 <h4>I also know:</h4>
-<p>Windows Server 2016/Ubuntu Server/C++</p>
+<p>Windows Server 2016/Ubuntu Server/C++/Assembly</p>
 
 <details>
 <summary>⬇️ Github stats ⬇️ <i>(click to expand)</i></summary>
