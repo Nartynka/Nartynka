@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martyna</h1>
-<h3 align="center">A 17 year old aspiring unicorn developer. Currently living and studying in Poland</h3>
+<h3 align="center">A 17 year old aspiring game developer. Currently living and studying in Poland</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
 <p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
 
