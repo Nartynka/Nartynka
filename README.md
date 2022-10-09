@@ -41,4 +41,4 @@ _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nartynka strike stats" />
 </details>
 
-✨***Have a nice day or night*** ✨
+✨***Have a nice day*** ✨
