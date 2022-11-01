@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **_LoDu: The Lost Duck:_ fantasy RPG game where you fight acient race _Dulaki_**
 
-- 🌱 I’m currently learning **Godot engine**
+- 🌱 I’m currently learning **Unreal engine 5**
 
 - 📚 I want to learn **Everything about game dev :D** 
 
@@ -34,11 +34,11 @@ _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 <h4>I also know:</h4>
 <p>Windows Server 2016/Ubuntu Server/C++/Assembly</p>
 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nartynka strike stats" />
 <details>
-<summary>⬇️ Github stats ⬇️ <i>(click to expand)</i></summary>
+<summary>⬇️ More Github stats ⬇️ <i>(click to expand)</i></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nartynka github stats" />
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nartynka&show_icons=true&langs_count=8&theme=dracula&hide_border=true&layout=compact&hide=C%23" alt="nartynka" alt="nartynka top languages"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nartynka strike stats" />
 </details>
 
 ✨***Have a nice day*** ✨
