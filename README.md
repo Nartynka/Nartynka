@@ -17,10 +17,12 @@
 
 - ⚡ Joke time! **What does Geralt say when he wants to ask something? _Hey Ciri!_**
 
+- 🎮 All my *released* games are available on my **[itch.io profile](https://nartyna.itch.io/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/martyna-plutowska/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white" alt="martyna plutowska"/></a>
-<a href="https://discordapp.com/users/411156513646706690" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="Nartyna#0362"/></a>
+ <a href="https://www.linkedin.com/in/martyna-plutowska/" target="_blank"><img align="center" src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white" alt="martyna plutowska"/></a>
+<a href="https://discordapp.com/users/411156513646706690" target="_blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white" alt="Nartyna#0362"/></a>
 </p>
 
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
