@@ -28,8 +28,9 @@
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 
 <h4>Tools I use when developing games</h4>
-<p>Godot Engine && Aseprite</p>
 
+Godot Engine && Aseprite\
+*but i'm learning **Unreal Engine** right now*
 <h4>Languages and Tools I use in web dev:</h3>
 <p>React.js/Redux/Node.js/MongoDB/Firebase/Sass/PHP/Figma</p>
 
