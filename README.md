@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
 <p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
 
-- 🔭 I’m currently working on **_LoDu: The Lost Duck:_ fantasy RPG game where you fight acient race _Dulaki_**
+- 🔭 I’m currently working on **projects in Unreal Engine 5!**
 
 - 🌱 I’m currently learning **Unreal engine 5**
 
