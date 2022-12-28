@@ -45,4 +45,4 @@ Godot Engine && Aseprite\
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nartynka&bg_color=282a36&color=757a99&line=ff79c6&point=8be9fd&area=true&hide_border=true&radius=4.5&custom_title=Nartynka%20Activity%20Graph" alt="Nartynka activity graph" />
 </details>
 
-✨***Have a nice day*** ✨
+✨***Have a nice day or night*** ✨
