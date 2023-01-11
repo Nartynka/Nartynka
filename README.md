@@ -3,6 +3,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
 <p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
 
+- 🪦 Checkout my first game jam game **[Grave Harvest](https://ldjam.com/events/ludum-dare/52/grave-harvest)** *made in 3 days!*
+
 - 🔭 I’m currently working on **something awesome!**
 
 - 🌱 I’m currently learning **Unreal engine 5**
