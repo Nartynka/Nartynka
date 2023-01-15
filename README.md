@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something awesome!**
 
-- 🌱 I’m currently learning **Unreal engine 5**
+- 🌱 I’m currently learning **Unreal engine 5 and Blender**
 
 - 📚 I want to learn **Everything about game dev :D** 
 
