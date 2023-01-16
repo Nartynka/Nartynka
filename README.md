@@ -5,7 +5,7 @@
 
 - 🪦 Checkout our first game jam game **[Grave Harvest](https://ldjam.com/events/ludum-dare/52/grave-harvest)** *made in 3 days!*
 
-- 🔭 I’m currently working on **something awesome!**
+- 🔭 I’m currently working on **my own Donut in Blender**
 
 - 🌱 I’m currently learning **Unreal engine 5 and Blender**
 
