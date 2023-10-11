@@ -5,7 +5,7 @@
 
 - 🪦 Checkout our first game jam game **[Grave Harvest](https://ldjam.com/events/ludum-dare/52/grave-harvest)** *made in 3 days!*
 
-- 🔭 I’m currently working on **TTOR - game in Unreal Engine 5**
+- 🔭 I’m currently working on **Star Wars short film in Unreal Engine 5*
 
 - 🌱 I’m currently learning **Unreal engine 5.2**
 
