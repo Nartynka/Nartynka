@@ -3,11 +3,11 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
 <p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
 
-- 🪦 Checkout our first game jam game **[Grave Harvest](https://ldjam.com/events/ludum-dare/52/grave-harvest)** *made in 3 days!*
+- 🎬 Checkout my very first **[Cinematic](https://youtu.be/4-L5YB4C5fU)** about Star Wars *made in Unreal Engine 5!*
 
-- 🔭 I’m currently working on **Star Wars short film in Unreal Engine 5*
+- 🔭 I’m currently working on **Unreal Engine 5 and C++ with SDL projects!**
 
-- 🌱 I’m currently learning **Unreal engine 5.2**
+- 🌱 I’m currently learning **Unreal engine 5.3**
 
 - 📚 I want to learn **Everything about game dev :D** 
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything you want!**
 
-- 📫 How to reach me **mplutwska@gmail.com**
+- 📫 How to reach me **mplutwska@gmail.com** *or on social media e.g. LinkedIn* 
 
 - ⚡ Joke time! **What does Geralt say when he wants to ask something? _Hey Ciri!_**
 
@@ -29,15 +29,13 @@
 
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 
-<h4>Tools I use when developing games</h4>
-
-Godot Engine && Aseprite\
-*but i'm learning **Unreal Engine** right now*
-<h4>Languages and Tools I use in web dev:</h3>
-<p>React.js/Redux/Node.js/MongoDB/Firebase/Sass/PHP/Figma</p>
+<h4>🎮 Languages and Tools I use when making games!</h4>
+Godot Engine & Aseprite / Unreal Engine 5 & Blender / C++ with SDL
+<h4>🌐 Languages and Tools I use in web dev:</h3>
+<p>JavaScript with React/Redux/Node.js/MongoDB/PHP/Figma</p>
 
 <h4>I also know:</h4>
-<p>Windows Server 2016/Ubuntu Server/C++/Assembly</p>
+<p>Windows Server 2016/Ubuntu Server/Assembly/DaVinci Resolve</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&custom_title=Nartynka's%20Github%20Stats" alt="nartynka github stats" />
 <details>
