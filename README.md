@@ -5,7 +5,7 @@
 
 - 🎬 Checkout my very first **[Cinematic](https://youtu.be/4-L5YB4C5fU)** about Star Wars *made in Unreal Engine 5!*
 
-- 🔭 I’m currently working on **Unreal Engine 5 and C++ with SDL projects!**
+- 🔭 I’m currently working on **Escape Room game in UE5**
 
 - 🌱 I’m currently learning **Unreal engine 5.3**
 
