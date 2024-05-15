@@ -5,7 +5,7 @@
 
 - 😎 Cool game I made: **[Lasers Puzzle!](https://github.com/Nartynka/UE-Lasers)** *Of course made in Unreal Engine 5!*
 
-- 🔭 I’m currently working on **COSMIC CAMpAigN**, a game about a Pig in space!
+- 🔭 I’m currently working on **COSMIC CAMpAigN**, a game about a Pig in space! Check out more on [LinkedIn](https://www.linkedin.com/company/purple-pigdev/)
 
 - 🌱 I’m currently learning **Unreal engine 5.3**
 
