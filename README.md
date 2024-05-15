@@ -3,9 +3,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
 <p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
 
-- 🎬 Checkout my very first **[Cinematic](https://youtu.be/4-L5YB4C5fU)** about Star Wars *made in Unreal Engine 5!*
+- 😎 Cool game I made: **[Lasers Puzzle!](https://github.com/Nartynka/UE-Lasers)** *Of course made in Unreal Engine 5!*
 
-- 🔭 I’m currently working on **Escape Room game in UE5**
+- 🔭 I’m currently working on **COSMIC CAMpAigN**, a game about a Pig in space!
 
 - 🌱 I’m currently learning **Unreal engine 5.3**
 
