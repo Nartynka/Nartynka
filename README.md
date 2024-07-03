@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **COSMIC CAMpAigN**, a game about a Pig in space! Check out more on [LinkedIn](https://www.linkedin.com/company/purple-pigdev/)
 
-- 🌱 I’m currently learning **Unreal engine 5.3**
+- 🌱 I’m currently learning **Unreal engine & C++**
 
 - 📚 I want to learn **Everything about game dev :D** 
 
