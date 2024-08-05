@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **anything you want!**
 
-- 📫 How to reach me **mplutwska@gmail.com** *or on social media e.g. LinkedIn* 
-
 - ⚡ Joke time! **What does Geralt say when he wants to ask something? _Hey Ciri!_**
 
 - 🎮 All my *released* games are available on my **[itch.io profile](https://nartyna.itch.io/)**
