@@ -37,11 +37,11 @@ Godot Engine & Aseprite / Unreal Engine 5 & Blender / C++ with SDL
 <h4>I also know:</h4>
 <p>Windows Server 2016/Ubuntu Server/Assembly/DaVinci Resolve</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&custom_title=Nartynka's%20Github%20Stats" alt="nartynka github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nartynka&show_icons=true&langs_count=10&theme=dracula&hide_border=true&layout=compact&hide=C%23,HTML" alt="nartynka" alt="nartynka top languages"/>
 <details>
 <summary>⬇️ More Github stats ⬇️ <i>(click to expand)</i></summary>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nartynka strike stats" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nartynka&show_icons=true&langs_count=10&theme=dracula&hide_border=true&layout=compact&hide=C%23" alt="nartynka" alt="nartynka top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&custom_title=Nartynka's%20Github%20Stats" alt="nartynka github stats" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nartynka&bg_color=282a36&color=757a99&line=ff79c6&point=8be9fd&area=true&hide_border=true&radius=4.5&custom_title=Nartynka%20Activity%20Graph" alt="Nartynka activity graph" />
 </details>
 
