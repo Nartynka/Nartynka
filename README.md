@@ -3,13 +3,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
 <p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
 
-- 😎 Cool game I made: **[Lasers Puzzle!](https://github.com/Nartynka/UE-Lasers)** *Of course made in Unreal Engine 5!*
+- 😎 My first big project! **COSMIC CAMpAigN**, a game about a Pig in space! Check it out on **[itch.io!](https://nartyna.itch.io/cosmic-campaign)** 🐷 - *We have won a special prize from 11 bit studios at ZTGK in Łódź!*
 
-- 🔭 I’m currently working on **COSMIC CAMpAigN**, a game about a Pig in space! Check it out on [itch.io](https://nartyna.itch.io/cosmic-campaign)
+- 🔭 I’m currently working on procedural animated **[Lizards!](https://github.com/Nartynka/Lizards)**
 
-- 🌱 I’m currently learning **Unreal engine 5 & C++**
+- 🌱 I’m currently learning **Game math with C++**
 
-- 📚 I want to learn **Everything about game dev :D** 
+- 📚 I want to learn **everything about game dev :D** 
 
 - 👨‍💻 All of my projects are available **on this profile**
 
@@ -28,7 +28,7 @@
 _All links available on [Linktr.ee](https://linktr.ee/Nartyna)_
 
 <h4>🎮 Languages and Tools I use when making games!</h4>
-Godot Engine & Aseprite / Unreal Engine 5 & Blender / C++ with SDL
+Godot Engine & Aseprite / Unreal Engine 5 & Blender / C++ with SDL / Processing <em>for fun with math!</em>
 <h4>🌐 Languages and Tools I use in web dev:</h3>
 <p>JavaScript with React/Redux/Node.js/MongoDB/PHP/Figma</p>
 
