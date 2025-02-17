@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on procedural animated **[Lizards!](https://github.com/Nartynka/Lizards)**
 
-- 🌱 I’m currently learning **Game math with C++**
+- 🌱 I’m currently learning **OpenGL**
 
-- 📚 I want to learn **everything about game dev :D** 
+- 📚 I want to learn **about low level programming in game dev :D** 
 
 - 👨‍💻 All of my projects are available **on this profile**
 
@@ -35,7 +35,7 @@ Godot Engine & Aseprite / Unreal Engine 5 & Blender / C++ with SDL / Processing 
 <h4>I also know:</h4>
 <p>Windows Server 2016/Ubuntu Server/Assembly/DaVinci Resolve</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&custom_title=Nartynka's%20Github%20Stats&bg_color=0,282a36,212436&rank_icon=percentile" alt="nartynka github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nartynka&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&custom_title=Nartynka's%20Github%20Stats&bg_color=0,282a36,212436&rank_icon=percentile" alt="nartynka github stats in public repos" />
 <details>
 <summary>⬇️ More Github stats ⬇️ <i>(click to expand)</i></summary>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nartynka&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0%2C282A36%2C212436" alt="nartynka strike stats" />
