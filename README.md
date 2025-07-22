@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martyna</h1>
-<h3 align="center">A 20 year old game developer. Currently studying in Poland</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartynka&label=Views&color=50fa7b&style=flat" alt="nartynka" /> </p> -->
-<p align="center"><img src="https://profile-counter.glitch.me/nartynka/count.svg"/></p>
+<h3 align="center">An aspiring game developer</h3>
 
 - 😎 My first big project! **COSMIC CAMpAigN**, a game about a Pig in space! Check it out on **[itch.io!](https://nartyna.itch.io/cosmic-campaign)** 🐷 - *We have won a special prize from 11 bit studios at ZTGK in Łódź!*
 
-<!-- - 🔭 I’m currently working on procedural animated **[Lizards!](https://github.com/Nartynka/Lizards)** -->
+- 🔭 I’m currently working on my own **[physics engine](https://github.com/Nartynka/QuackEngine)** in C++
 
 - 🌱 I’m currently learning **OpenGL**
 
-- 📚 I want to learn **about low level programming and math in game dev :D** 
+- 📚 I want to learn **about physics and math in game dev :D** 
 
 - 👨‍💻 All of my projects are available **on this profile**
 
